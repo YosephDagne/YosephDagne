@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yosef Dagne</h1>
-<h3 align="center">A passionate Fullstack developer from Ethiopia</h3>
+<h3 align="center">passionate Fullstack developer from Ethiopia</h3>
 
-- 💬 Ask me about **react**
+- 🌱 I’m currently learning **React, Js , Nodejs, HTML, CSS ...**
 
 - 📫 How to reach me **josefdange5@gmail.com**
 
