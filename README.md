@@ -2,7 +2,7 @@
 <h3 align="center">💻 Passionate Full Stack Developer from Ethiopia</h3>
 
 <p align="center">
-  🌱 Currently exploring: <strong>React.js, Next.js, Node.js, TypeScript</strong><br>
+  🌱 Currently exploring: <strong>React.js, Next.js, Node.js, ASP.NET, C#, JavaScript, TypeScript</strong><br>
   📫 Reach me at: <strong>josefdange5@gmail.com</strong>
 </p>
 
